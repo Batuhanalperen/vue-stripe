@@ -47,6 +47,9 @@ export default {
   sessionId: {
     type: String,
   },
+  customer: {
+    type: String,
+  },
   stripeAccount: {
     type: String,
     default: undefined,

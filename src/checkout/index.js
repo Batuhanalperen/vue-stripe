@@ -53,6 +53,7 @@ export default {
           billingAddressCollection: this.billingAddressCollection,
           cancelUrl: this.cancelUrl,
           clientReferenceId: this.clientReferenceId,
+          customer: this.customer,
           customerEmail: this.customerEmail,
           items: this.items,
           lineItems: this.lineItems,
